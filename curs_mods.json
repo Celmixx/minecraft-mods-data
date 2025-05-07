@@ -1,12 +1,8 @@
 {
-  "mods": [
-    {
-      "name": "OptiFine",
-      "url": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J3.jar&x=c824789c12f0349b8932af7c2094f5a9"
-    },
-    {
-      "name": "Just Enough Items (JEI)",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/5846858"
-    }
+  "curseFiles": [
+    //Just Enough Items
+    "projectID": 238222,
+    "filesID": 5846858,
   ]
+  "mods": [ ]
 }
