@@ -1,8 +1,8 @@
 {
   "curseFiles": [
     {
-      "projectID": 238222,
-      "filesID": 5846858
+      "projectID": 238222,   // ID du projet JEI sur CurseForge
+      "filesID": 5846858     // ID du fichier JEI version 1.19.2 sur CurseForge
     }
   ],
   "mods": []
