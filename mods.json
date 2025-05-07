@@ -1,8 +1,8 @@
 {
-  "curseFiles": [
+  "directMods": [
     {
-      "projectID": 238222,
-      "filesID": 5846858
-    },
+      "url": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J3.jar&x=40530f6dc225f5fcf4dd3d02e75e2c80",
+      "name": "Optifine 1.19.2"
+    }
   ]
 }
