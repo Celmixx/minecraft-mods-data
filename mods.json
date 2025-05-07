@@ -1,8 +1,8 @@
 {
-  "directMods": [
+  "mods": [
     {
-      "url": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J3.jar&x=40530f6dc225f5fcf4dd3d02e75e2c80",
-      "name": "Optifine 1.19.2"
+      "name": "OptiFine_1.19.2_HD_U_H9.jar",
+      "url": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J3.jar&x=40530f6dc225f5fcf4dd3d02e75e2c80"
     }
   ]
 }
