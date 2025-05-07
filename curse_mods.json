@@ -1,11 +1,12 @@
-[
-  {
-    "name": "OptiFine",
-    "url": "https://www.curseforge.com/minecraft/mc-mods/optifine/files/4001565/download"
-  },
-  {
-    "name": "Just Enough Items (JEI)",
-    "url": "https://www.curseforge.com/minecraft/mc-mods/jei/files/4095880/download"
-  }
-]
-
+{
+  "mods": [
+    {
+      "name": "OptiFine",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/optifine/files/4001565/download"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/jei/files/4095880/download"
+    }
+  ]
+}
