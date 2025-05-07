@@ -1,7 +1,9 @@
 {
   "curseFiles": [
-    "projectID": 238222,
-    "filesID": 5846858,
-  ]
-  "mods": [ ]
+    {
+      "projectID": 238222,
+      "filesID": 5846858
+    }
+  ],
+  "mods": []
 }
