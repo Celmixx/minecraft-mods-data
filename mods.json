@@ -1,7 +1,8 @@
-[
-  {
-    "name": "OptiFine",
-    "url": "https://optifine.net/downloadx?f=OptiFine_1.21.4_HD_U_J3.jar&x=45d9872a77d7614f0875368af54f3d15"
-  }
-]
-
+{
+  "curseFiles": [
+    {
+      "projectID": 238222,
+      "filesID": 5846858
+    },
+  ]
+}
